@@ -1,0 +1,11 @@
+none;Hattiesburg;mississippi;partisan;3
+http://www.ourcampaigns.com/RaceDetail.html?RaceID=785307;Southaven;mississippi;partisan;3
+http://www.ourcampaigns.com/RaceDetail.html?RaceID=697508;olympia;washington;nonpartisan;3
+http://www.ourcampaigns.com/RaceDetail.html?RaceID=634038;Fayetteville;arkansas;nonpartisan;3
+http://www.ourcampaigns.com/RaceDetail.html?RaceID=781475;lake charles;Louisiana;partisan;3
+http://www.ourcampaigns.com/RaceDetail.html?RaceID=766245;carson city;nevada;nonpartisan;3
+http://www.ourcampaigns.com/RaceDetail.html?RaceID=635984;orem;utah;nonpartisan;3
+http://www.ourcampaigns.com/RaceDetail.html?RaceID=785918;Cheyenne;wyoming;nonpartisan;3
+http://www.ourcampaigns.com/RaceDetail.html?RaceID=735833;fairbanks;alaska;nonpartisan;3
+http://www.ourcampaigns.com/RaceDetail.html?RaceID=817446;Juneau;alaska;nonpartisan;3
+http://www.ourcampaigns.com/RaceDetail.html?RaceID=746989;Sitka;alaska;nonpartisan;3

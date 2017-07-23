@@ -1,0 +1,18 @@
+{
+	"INCUMBENT":
+	{
+		"column index": 0,
+		"strict match":
+		[
+			"Party",
+			"Name",
+			"Won",
+			"Votes",
+			"Margin",
+			"Term"
+		],
+		"regex match": [],
+		"terminate on mismatch": false,
+		"ignore image": true
+	}
+}

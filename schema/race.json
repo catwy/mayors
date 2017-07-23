@@ -1,0 +1,67 @@
+{
+	"RACE DETAILS":
+	{
+		"column index": 0,
+		"strict match":
+		[
+			"Parents",
+			"Office",
+			"Type",
+			"Filing Deadline",
+			"Polls Open",
+			"Polls Close",
+			"Term Start",
+			"Term End",
+			"Turnout",
+			"Contributor",
+			"Last Modified",
+			"Data Sources"
+		],
+		"regex match": [],
+		"terminate on mismatch": false,
+		"ignore image": true
+	},
+	"LAST GENERAL ELECTION":
+	{
+		"column index": 0,
+		"strict match":
+		[
+			"Party",
+			"Won",
+			"Name",
+			"Votes",
+			"Term",
+			"Margin"
+		],
+		"regex match": [],
+		"terminate on mismatch": false,
+		"ignore image": true
+	},
+	"PRIMARY/OTHER SCHEDULE":
+	{
+		"column index": 0,
+		"strict match": [],
+		"regex match": [".*\\d{2}, \\d{4}"],
+		"terminate on mismatch": true,
+		"ignore image": false
+	},
+	"CANDIDATES":
+	{
+		"column index": 0,
+		"strict match":
+		[
+			"Photo",
+			"Name",
+			"Party",
+			"Certified Votes",
+			"Margin",
+			"Predict Avg.",
+			"Cash On Hand",
+			"Website",
+			"Entry Date"
+		],
+		"regex match": ["ertified Votes"],
+		"terminate on mismatch": false,
+		"ignore image": false
+	}
+}

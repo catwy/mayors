@@ -1,0 +1,3 @@
+http://www.ourcampaigns.com/RaceDetail.html?RaceID=613722;New York city; New York; partisan;	
+http://www.ourcampaigns.com/RaceDetail.html?RaceID=795343;Chicago; Illinois;nonpartisan;	
+http://www.ourcampaigns.com/RaceDetail.html?RaceID=785208;Los Angeles; California;nonpartisan;
